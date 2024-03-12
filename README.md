@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mauryagaurav947
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Flutter & Java
+- 🌱 I’m currently learning Flutter & Python
 <!-- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mauryagaurav947@gmail.com -->
 
